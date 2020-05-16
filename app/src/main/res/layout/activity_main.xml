@@ -49,23 +49,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.951" />
 
-<!--    <ProgressBar-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:id="@+id/progress_bar"-->
-<!--        android:background="@drawable/rounded"-->
-<!--        android:indeterminate="true"-->
-<!--        android:indeterminateTint="@color/white"-->
-<!--        android:indeterminateTintMode="src_atop"-->
-<!--        android:padding="10dp"-->
-<!--        app:layout_constraintBottom_toBottomOf="@+id/view_finder"-->
-<!--        app:layout_constraintEnd_toEndOf="parent"-->
-<!--        app:layout_constraintHorizontal_bias="0.498"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toTopOf="parent"-->
-<!--        app:layout_constraintVertical_bias="0.943"-->
-<!--        android:visibility="gone"-->
-<!--        />-->
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 
